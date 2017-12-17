@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/train/Russian/siemens_m1_ct/rama"
+	"$model" "1"
+
+
+	"$phong" "1"
+ 
+	"$bumpmap"				"models/train/Russian/siemens_m1_ct/rama_n"
+	"$phongexponenttexture"	"models/train/Russian/siemens_m1_ct/rama_s"
+	"$phongboost"				3.0
+	"$phongfresnelranges"		"[1 1 1]"
+	$envmap			env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint [0.05 0.05 0.05]
+	
+}
